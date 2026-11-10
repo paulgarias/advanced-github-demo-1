@@ -17,3 +17,5 @@ the trained model and a confusion-matrix plot.
 ```bash
 python -m pip install -r requirements.txt
 ```
+
+## Usage
